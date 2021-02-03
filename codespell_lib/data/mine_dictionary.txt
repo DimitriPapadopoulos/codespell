@@ -34967,3 +34967,4 @@ uniciode->unicode
 direcrx->directx
 direcr->direct
 agjacent->adjacent
+fontscvaling->fontscaling
