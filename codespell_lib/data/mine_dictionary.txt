@@ -34968,3 +34968,8 @@ direcrx->directx
 direcr->direct
 agjacent->adjacent
 fontscvaling->fontscaling
+decended->descended
+ti->it
+tl->it
+scpecified->specified
+hidde->hidden
