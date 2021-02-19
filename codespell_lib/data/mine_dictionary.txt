@@ -696,7 +696,7 @@ rapell->rappel
 rapsady->rhapsody
 ratatoolee->ratatouille
 receet->receipt
-recend->rescind
+recend->rescind, gelma,
 receptical->receptacle
 reconasence->reconnaissance
 recroot->recruit
@@ -1539,7 +1539,6 @@ uers->users
 uing->using
 umame->uname
 unecrypted->unencrypted
-verfify->verify
 versatilte->versatile
 viop->voip
 wihin->within
@@ -1704,7 +1703,6 @@ lowere->lower
 marvel->marvell
 memort->memory
 microbaze->microblaze
-microcontrolers->microcontrollers
 necessry->necessary
 ntroduced->introduced
 nusing->using
@@ -2053,7 +2051,6 @@ accomplishs->accomplishes
 accompliss->accomplishes
 accomponied->accompanied
 acconplishment->accomplishment
-accoridng->according
 accostumed->accustomed
 accountabillity->accountability
 accountabilty->accountability
@@ -4020,7 +4017,6 @@ blegian->belgian
 blegium->belgium
 blessins->blessings
 bleuberry->blueberry
-bleutooth->bluetooth
 blisteres->blisters
 blizzad->blizzard
 blizzcoin->blizzcon
@@ -5289,7 +5285,6 @@ coincidince->coincidence
 coincidnce->coincide
 coindice->coincide
 coindidental->coincidental
-coinsidence->coincidence
 coinsidental->coincidental
 coinsidentally->coincidentally
 cointerpoint->counterpoint
@@ -14425,8 +14420,6 @@ mechaniclly->mechanically
 mechanicly->mechanical
 mechanicsms->mechanisms
 mechanicus->mechanics
-mechanim->mechanism
-mechanims->mechanism
 mechaninc->mechanic
 mechanincs->mechanic
 mechanisim->mechanism
@@ -20039,7 +20032,6 @@ scenarioes->scenarios
 scenarious->scenarios
 scepture->scepter
 scheduleing->scheduling
-schedulling->scheduling
 scheems->schemes
 scheudling->scheduling
 schisophrenic->schizophrenic
@@ -20458,7 +20450,6 @@ signigns->signings
 signins->signings
 signitures->signatures
 signleplayer->singleplayer
-signles->singles
 sigthstone->sightstone
 sihlouette->silhouette
 silbings->siblings
@@ -20550,8 +20541,6 @@ simultaneoulsy->simultaneously
 simultaneuos->simultaneous
 simultaneuous->simultaneous
 simultaneus->simultaneous
-simultaniously->simultaneously
-simultanious->simultaneous
 simulteanously->simultaneously
 simulteneous->simultaneous
 sinagpore->singapore
@@ -24748,7 +24737,6 @@ condidate->candidate
 constitutent->constituent
 containst->contains
 contrain->constrain
-coversion->conversion
 crimean->crimea
 crytographic->cryptographic
 cummulated->cumulated
@@ -25189,7 +25177,6 @@ clsss->class
 cmmand->command
 cmpile->compile
 cmpletions->completions
-coalesc->coalesce
 coalesing->coalescing
 coce->code
 coealesce->coalesce
@@ -25345,7 +25332,6 @@ definitnions->definitions
 definning->defining
 defragement->defragment
 degistered->registered
-degredation->degradation
 deired->desired
 delailed->detailed
 delaye->delay
@@ -25885,7 +25871,6 @@ unabe->unable
 unablt->unable
 unale->unable
 unble->unable
-unknwn->unknown
 updata->update
 usaged->usage
 ustream->stream
@@ -27001,7 +26986,6 @@ inxtruction->instruction
 istallation->installation
 managemnt->management
 minimim->minimum
-monitary->monetary
 montonic->monotonic
 necesssary->necessary
 numberings->numbering
@@ -28489,7 +28473,6 @@ xample->example
 zinde->zindex
 choppet->chopped
 exportd->exported
-boundig->bounding
 heiht->height
 stacj->stack
 writethtough->writethrough
@@ -28533,7 +28516,6 @@ usae->use
 ysed->used
 balue->value
 cacje->cache
-ciphe->cipher
 cloks->clocks
 costy->costly
 erofd->erofs
@@ -29022,7 +29004,6 @@ variablem->variable
 visibilit->visibility
 visiility->visibility
 whatsover->whatsoever
-workaroud->workaround
 ambiguiuty->ambiguity
 analyticsd->analytics
 annnotated->annotated
@@ -29391,7 +29372,6 @@ accptably->acceptably
 accptance->acceptance
 accredet->accredit
 accreditate->accredit
-accros->across
 accsed->accessed
 accsesible->accessible
 accsutom->accustom
@@ -34973,3 +34953,6 @@ ti->it
 tl->it
 scpecified->specified
 hidde->hidden
+croped->cropped
+blanc->blank
+ontouched->untouched
