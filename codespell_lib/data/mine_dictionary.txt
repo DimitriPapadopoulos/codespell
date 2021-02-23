@@ -3160,7 +3160,6 @@ arguablly->arguably
 argubaly->arguably
 arguemet->argument
 arguemnet->argument
-arguemtn->argument
 argumeent->argument
 argumentas->arguments
 argumentate->argumentative
@@ -8500,8 +8499,6 @@ disturben->disturbance
 disturping->disrupting
 distustingly->disgustingly
 disucssing->discussing
-disucssion->discussion
-disucssions->discussions
 disupted->disputed
 disuptes->disputes
 disurption->disruption
@@ -17198,7 +17195,6 @@ placebro->placebo
 placeheld->placeholder
 placeholdr->placeholder
 placemens->placements
-placemet->placements
 plaestine->palestine
 plaestinian->palestinian
 plaestinians->palestinians
@@ -24366,7 +24362,6 @@ simplifed->simplified
 sitemamp->sitemap
 slahes->slashes
 specalist->specialist
-sqashing->squashing
 staf->staff
 stratgy->strategy
 streightforward->straightforward
@@ -25264,7 +25259,6 @@ contxt->context
 conunts->counts
 coordianate->coordinate
 copmpiled->compiled
-coproccessor->coprocessor
 copyies->copies
 copyrifht->copyright
 corigin->origin
@@ -26082,7 +26076,6 @@ formarly->formerly
 formware->firmware
 fragents->fragments
 freecale->freescale
-globablly->globally
 gonolulu->honolulu
 graphocs->graphics
 handelers->handlers
@@ -27551,7 +27544,6 @@ happenss->happens
 hellmann->hellman
 helpher->helper
 hexadecmal->hexadecimal
-hexdecimal->hexadecimal
 hiowever->however
 horizotal->horizontal
 igroreaction->ignoreaction
