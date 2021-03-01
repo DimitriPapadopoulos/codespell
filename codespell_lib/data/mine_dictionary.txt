@@ -20584,7 +20584,6 @@ skateborading->skateboarding
 skateborad->skateboard
 skatebored->skateboard
 skatebrand->skateboard
-skecthes->sketches
 skecthy->sketchy
 skelatel->skeletal
 skeletaal->skeletal
@@ -34948,3 +34947,5 @@ hidde->hidden
 croped->cropped
 blanc->blank
 ontouched->untouched
+remrmber->remember
+indside->inside
