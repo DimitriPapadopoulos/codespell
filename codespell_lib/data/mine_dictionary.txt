@@ -887,7 +887,6 @@ bookend->booked
 coping->copying
 dellaloc->delalloc
 anobject->an object
-inconsitency->inconsistency
 incosistency->inconsistency
 gere->here
 uppper->upper
@@ -14803,7 +14802,6 @@ mircotransactions->microtransactions
 mircowave->microwave
 mircowaves->microwaves
 mirgaine->migraine
-mirorred->mirrored
 mirrord->mirrored
 misanderstood->misunderstood
 misandrony->misandry
@@ -19291,8 +19289,6 @@ replacemnet->replacements
 replacemnt->replacement
 replacemnts->replacements
 replacemtn->replacements
-replased->relapsed
-replase->replaces
 replayd->replayed
 replayes->replays
 repleacable->replaceable
@@ -26658,7 +26654,6 @@ sarch->search
 satistied->satisfied
 screipt->script
 scrol->scroll
-secounds->seconds
 seprador->separador
 sesion->session
 sevas->saves
@@ -28867,7 +28862,6 @@ anymatchx->anymatch
 appcanter->appcenter
 appsecret->appsecret
 appsectet->appsecret
-aresponse->aresponses
 arthmetic->arithmetic
 asssigned->assigned
 atomicand->atomicadd
@@ -34949,3 +34943,10 @@ blanc->blank
 ontouched->untouched
 remrmber->remember
 indside->inside
+whilc->while
+mentionted->mentioned
+issuee->issue
+walid->valid
+oattern->pattern
+propertties->properties
+termes->terms
