@@ -34950,3 +34950,7 @@ walid->valid
 oattern->pattern
 propertties->properties
 termes->terms
+expnder->expander
+kerenel->kernel
+thrashing->trashing
+thrash->trash
