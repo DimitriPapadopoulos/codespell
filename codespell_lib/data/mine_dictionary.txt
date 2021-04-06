@@ -25209,7 +25209,6 @@ concrurrent->concurrent
 condidions->conditions
 confg->config
 confgigures->configures
-confgured->configured
 confif->config
 configfure->configure
 configuable->configurable
@@ -34954,3 +34953,6 @@ expnder->expander
 kerenel->kernel
 thrashing->trashing
 thrash->trash
+algebraicly->algebraically
+kerninghan->kernighan
+avabiality->availability
