@@ -34956,3 +34956,8 @@ thrash->trash
 algebraicly->algebraically
 kerninghan->kernighan
 avabiality->availability
+trarget->target
+neative->negative
+uncommened->uncommented
+diffrers->differs
+diffrer->differ
