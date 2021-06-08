@@ -34982,3 +34982,7 @@ shifed->shifted
 asynchonrous->asynchronous
 presendation->presentation
 subsitutions->substitutions
+reocord->record
+reocords->records
+equlivalent->equivalent
+compatiblitymode->compatibilitymode
