@@ -1184,7 +1184,6 @@ easilty->easily
 effeect->effect
 empted->emptied
 esily->easily
-expaned->expanded
 explicits->explicit
 explicte->explicate
 exponentials->exponential
@@ -1862,7 +1861,6 @@ desacriptor->descriptor
 opitmized->optimized
 bebugging->debugging
 brizen->bryzen
-clases->clashes
 conflcting->conflicting
 discretio->discretion
 emoves->removes
@@ -6730,7 +6728,6 @@ copenhagun->copenhagen
 copenhangen->copenhagen
 copenhaven->copenhagen
 copenhegan->copenhagen
-coprorate->corporate
 coproration->corporation
 coprorations->corporations
 coprses->corpses
@@ -12003,7 +12000,6 @@ independente->independence
 independentisme->independents
 independentiste->independents
 independentness->independents
-independet->independent
 independetly->independently
 independetn->independents
 independets->independents
@@ -15686,7 +15682,6 @@ noticeablely->noticeably
 noticeabley->noticeably
 noticiably->noticeably
 notificacion->notification
-notificatons->notifications
 notoriosly->notoriously
 notorios->notorious
 notoriuosly->notoriously
@@ -16896,7 +16891,6 @@ personaes->personas
 personalie->personalized
 personalis->personas
 personalites->personalities
-personalitites->personalities
 personalitits->personalities
 personallity->personally
 personarse->personas
@@ -18192,7 +18186,6 @@ propehts->prophets
 propencity->propensity
 propenents->proponents
 properitary->proprietary
-properites->properties
 propersity->propensity
 propertiary->proprietary
 propertional->proportional
@@ -19330,7 +19323,6 @@ representerad->represented
 representes->represents
 representetive->representative
 representetives->representatives
-represention->representation
 representitive->representative
 representitives->representatives
 representitve->representative
@@ -20345,8 +20337,6 @@ shcooled->schooled
 sheakspeare->shakespeare
 sheelpe->sheeple
 sheepel->sheeple
-sheilded->shielded
-sheilding->shielding
 shelterd->sheltered
 shelvers->shelves
 shelveys->shelves
@@ -20563,7 +20553,6 @@ sinlgeplayer->singleplayer
 sinsiter->sinister
 sitautional->situational
 sitckers->stickers
-sitmuli->stimuli
 sitrring->stirring
 situacional->situational
 situatinal->situational
@@ -21405,7 +21394,6 @@ stupidr->stupider
 stupidy->stupidly
 stupire->stupider
 stupitidy->stupidity
-sturctural->structural
 sturggled->struggled
 sturggles->struggles
 sturggling->struggling
@@ -21492,8 +21480,6 @@ subsidiy->subsidy
 subsidizied->subsidized
 subsidizies->subsidize
 subsidizng->subsidizing
-subsiquently->subsequently
-subsiquent->subsequent
 subsittute->substitutes
 subsizided->subsidized
 subsizide->subsidize
@@ -22360,7 +22346,6 @@ tightare->tighter
 tightenting->tightening
 tightining->tightening
 tigther->tighter
-timestap->timestamp
 tindergarten->kindergarten
 tiolets->toilets
 tirangles->triangles
@@ -25406,7 +25391,6 @@ displached->displaced
 distination->destination
 distince->distinct
 distinguisable->distinguishable
-distrbution->distribution
 distrbutors->distributors
 ditherd->dithered
 divesity->diversity
@@ -27061,7 +27045,6 @@ presentinng->presenting
 previoulsly->previously
 processeing->processing
 prograssive->progressive
-projecttion->projection
 propertyies->properties
 protectioon->protection
 protocllist->protocollist
@@ -27674,7 +27657,6 @@ smarcard->smartcard
 sndblock->sendblock
 specifer->specifier
 specifiec->specific
-specifig->specific
 sqeezes->squeezes
 squeezeed->squeezed
 sreams->streams
@@ -28871,7 +28853,6 @@ compating->comparing
 compelted->compeleted
 concerete->concrete
 conformat->conformant
-constaint->constraint
 constexts->contexts
 contition->condition
 coparison->comparison
@@ -28941,7 +28922,6 @@ operatios->operations
 opttional->optional
 ourselbes->ourselves
 oveloaded->overloaded
-partcular->particular
 periperal->peripheral
 petabaits->petabytes
 playround->playground
@@ -33009,7 +32989,6 @@ parllel->parallel
 parllelism->parallelism
 parllelogram->parallelogram
 partciularly->particularly
-partcularly->particularly
 partheid->apartheid
 particlarly->particularly
 particluarly->particularly
