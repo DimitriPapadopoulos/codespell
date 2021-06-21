@@ -7547,7 +7547,6 @@ demosntrations->demonstrations
 demsond->desmond
 denegerate->degenerate
 deneirs->deniers
-denisty->density
 denomenation->denomination
 denomenations->denominations
 denomenator->denominator
@@ -24327,7 +24326,6 @@ ccolor->color
 cenral->central
 chacheable->cacheable
 chafield->charfield
-chanage->change
 changedn->changed
 chechsum->checksum
 childefinition->childdefinition
@@ -24913,7 +24911,6 @@ appropariate->appropriate
 appropriatelly->appropriately
 appropritate->appropriate
 aproximated->approximated
-aquisitions->acquisitions
 arabinc->arabic
 arbritration->arbitration
 arbritrator->arbitrator
@@ -24962,7 +24959,6 @@ aurhenticator->auhenticator
 authour->author
 automountd->automount
 availabiltity->availability
-availaibility->availability
 avalilable->available
 awy->away
 axists->exists
@@ -26563,7 +26559,6 @@ sourcel->source
 spece->space
 specyfic->specific
 statte->state
-streight->straight
 strorage->storage
 stscanf->sscanf
 stuf->stuff
@@ -34726,3 +34721,9 @@ reocord->record
 reocords->records
 equlivalent->equivalent
 compatiblitymode->compatibilitymode
+nigh->high
+readng->reading
+gethub->github
+appliing->applying
+exponentiaton->exponentiation
+delclare->declare
