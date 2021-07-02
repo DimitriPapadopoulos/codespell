@@ -34739,3 +34739,19 @@ imovement->improvement
 movementnot->movement not
 radina->radian
 sulconveyor->sul conveyor
+carouesel->carousel
+cetrifuge->centrifuge
+diration->direction
+duringspecimen->during specimen
+inbulk->in bulk
+mulfunctioning->malfunctioning
+pcnot->pc not
+posititon->position
+quandrant->quadrant
+reade->reader
+readerg->reader
+restast->restart
+splide->slide
+converyor->conveyor
+initizial->initial
+strea->streak
