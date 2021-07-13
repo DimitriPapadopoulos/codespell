@@ -25697,7 +25697,6 @@ sacript->script
 saddly->sadly
 santity->sanity
 satic->static
-satus->status
 secoend->second
 sefely->safely
 sellect->select
@@ -26766,7 +26765,6 @@ loadlibary->loadlibrary
 logilename->logfilename
 maintining->maintaining
 managments->managements
-measuement->measurement
 meaurement->measurement
 moterboard->motherboard
 muliplexor->multiplexer
@@ -34758,3 +34756,5 @@ strea->streak
 unlaoding->unloading
 emergnecy->emergency
 emergengy->emergency
+mutliservice->multiservice
+trasnformations->transformations
