@@ -26474,7 +26474,6 @@ longuest->longest
 maey->may
 mappning->mapping
 maschine->machine
-mehod->method
 meldings->melding
 messageing->messaging
 misaliged->misaligned
@@ -32818,7 +32817,6 @@ persay->per
 perseerance->perseverance
 perseevrance->perseverance
 persent->present
-perservere->persevere
 perserverence->perseverance
 perseveance->perseverance
 persevearnce->perseverance
@@ -33139,7 +33137,6 @@ protgonist->protagonist
 protien->protein
 prounciation->pronunciation
 prounnciation->pronunciation
-providor->provider
 prseent->present
 prseided->presided
 prseident->president
@@ -34130,7 +34127,6 @@ vehichle->vehicle
 veign->vein
 venacular->vernacular
 versimilitude->verisimilitude
-versitile->versatile
 vertabrate->vertebrate
 verzion->version
 veteren->veteran
