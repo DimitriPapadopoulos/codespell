@@ -851,13 +851,6 @@ wressel->wrestle
 wryth->writhe
 xelementacces->xelementaccess
 yamaka->yarmulke
-yello->yellow
-yoman->yeoman
-yot->yacht
-youforic->euphoric
-youlogy->eulogy
-youthinasia->euthanasia
-yuforic->euphoric
 zar->czar
 zefer->zephyr
 zellot->zealot
@@ -1094,7 +1087,6 @@ facitily->facility
 granulity->granularity
 hihg->high
 lexigraphically->lexicographically
-librray->library
 logicla->logical
 mainatned->maintained
 overwrited->overwritten
@@ -1409,7 +1401,6 @@ envicornment->environment
 estart->restart
 feports->reports
 fooh->foo
-fuctioning->functioning
 geame->game
 gudie->guide
 gudielines->guidelines
@@ -10395,7 +10386,6 @@ frustrats->frustrates
 frustrsted->frustrates
 frutcose->fructose
 fucntional->functional
-fucntionality->functionality
 fucntionally->functionally
 fulfillling->fulfilling
 fulfulling->fulfilling
@@ -27529,7 +27519,6 @@ quantiztation->quantization
 quicktme->quicktime
 rality->reality
 ratinale->rationale
-rationnal->rational
 reciepient->recipient
 recocation->revocation
 recompostion->recomposition
@@ -28838,7 +28827,6 @@ appliciable->applicable
 mobilelocaleseperator->mobilelocaleseparator
 tooptip->tooltip
 jgoups->jgroups
-fuctionality->functionality
 credentia->credential
 deveoper->developer
 ftom->from
@@ -34764,3 +34752,5 @@ tabele->table
 jut->just
 delinquncy->delinquency
 moudles->modules
+compbo->combo
+reaking->reaching
