@@ -34754,3 +34754,7 @@ delinquncy->delinquency
 moudles->modules
 compbo->combo
 reaking->reaching
+iterata->iterate
+encript->encrypt
+mirrowed->mirrored
+unitzialized->uninitialized
