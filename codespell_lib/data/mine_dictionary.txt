@@ -18293,7 +18293,6 @@ protines->proteins
 protistant->protestant
 protistants->protestants
 protocoles->protocols
-protocolls->protocols
 protocolos->protocols
 protocool->protocol
 protoganists->protagonists
@@ -24715,7 +24714,6 @@ probabalistic->probabilistic
 progessively->progressively
 proprocessor->preprocessor
 proram->program
-protcols->protocols
 prototyed->prototyped
 purgable->purgeable
 pust->push
@@ -34758,3 +34756,7 @@ iterata->iterate
 encript->encrypt
 mirrowed->mirrored
 unitzialized->uninitialized
+succefull->successful
+fremium->freemium
+iunput->input
+reaplce->replace
