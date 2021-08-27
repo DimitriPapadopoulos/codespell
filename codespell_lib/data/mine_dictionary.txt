@@ -20,7 +20,6 @@ adjatate->agitate
 adjative->adjective
 adventagous->advantageous
 afficianado->aficionado
-afterwords->afterwards
 aggenst->against
 aggrivate->aggravate
 agrandize->aggrandize
@@ -639,7 +638,6 @@ pewder->pewter
 pharmasist->pharmacist
 pharmasudical->pharmaceutical
 pharoh->pharaoh
-phisical->physical
 phlem->phlegm
 physision->physician
 pice->piece
@@ -1011,7 +1009,6 @@ botoom->bottom
 chaacters->characters
 checkso->checks
 coipes->copies
-comands->commands
 concatanating->concatenating
 consumpption->consumption
 corupt->corrupt
@@ -1679,7 +1676,6 @@ sceleton->skeleton
 scondary->secondary
 segmant->segment
 selct->select
-serch->search
 sevirity->severity
 simplicitly->simplicity
 solaries->solaris
@@ -1889,7 +1885,6 @@ absestos->asbestos
 absintence->abstinence
 absitnence->abstinence
 absloutes->absolutes
-absolue->absolute
 absolument->absolute
 absolutelys->absolutes
 absolutey->absolutely
@@ -3417,8 +3412,6 @@ attraktive->attractive
 attribuito->attribution
 attributo->attribution
 attributted->attribute
-attritube->attribute
-attritubes->attributes
 aucitons->auctions
 auctioners->auctions
 auctionrs->auctions
@@ -5287,7 +5280,6 @@ collequial->colloquial
 collest->collects
 colleteral->collateral
 colliquial->colloquial
-collisin->collisions
 collisson->collisions
 collitions->collisions
 collobarate->collaborate
@@ -7914,7 +7906,6 @@ differentiantion->differentiation
 differentiatiors->differentiation
 differentiaton->differentiation
 differentitation->differentiation
-differentl->differential
 differenty->differently
 differeny->differently
 differientation->differentiation
@@ -9813,7 +9804,6 @@ eyeshdaow->eyeshadow
 eygptian->egyptian
 eygptians->egyptians
 eytmology->etymology
-fabircation->fabrication
 faboulus->fabulous
 fabriacted->fabricated
 fabricacion->fabrication
@@ -10108,7 +10098,6 @@ flexbile->flexible
 flexibiliy->flexibility
 flexibillity->flexibility
 flexibiltiy->flexibility
-flexibily->flexibility
 flimmakers->filmmakers
 flippade->flipped
 flitered->filtered
@@ -11905,7 +11894,6 @@ indavertently->inadvertently
 indefenite->indefinite
 indefinete->indefinite
 indefinetely->indefinitely
-indefinetly->indefinitely
 indefininte->indefinite
 indefinitelly->indefinitely
 indefinitive->indefinite
@@ -12184,7 +12172,6 @@ infogrpahic->infographic
 infogrpahics->infographic
 inforgivable->unforgivable
 informable->informal
-informacion->information
 informarla->informal
 informarle->informal
 informarlo->informal
@@ -18131,7 +18118,6 @@ proporcion->proportion
 proporition->proposition
 proportianally->proportionally
 proportians->proportions
-proporties->properties
 proportinal->proportional
 proporting->proportion
 proportionallity->proportionally
@@ -23481,7 +23467,6 @@ verbaitm->verbatim
 verbaly->verbally
 verbatium->verbatim
 verfiying->verifying
-verical->vertical
 verificacion->verification
 verificaiton->verification
 verificato->verification
@@ -24195,7 +24180,6 @@ permanatly->permanently
 rembering->remembering
 reogranisation->reorganisation
 retreivekeyfile->retrievekeyfile
-tpye->type
 transferr->transfer
 clipbord->clipboard
 concated->concatened, disabilitato_mio,
@@ -24344,7 +24328,6 @@ exceede->exceed
 excludepattern->excludepatterns
 excludetest->excludetests
 exicode->exitcode
-existin->existing
 expore->explore
 exsting->existing
 extennsion->extension
@@ -24365,7 +24348,6 @@ granparent->grandparent
 granularit->granularity
 greately->greatly
 grenlandia->groenlandia
-groupping->grouping
 gtthub->github
 guadalupa->guadalupe
 gwatemala->guatemala
@@ -24404,7 +24386,6 @@ kolombia->colombia
 kuba->cuba
 languagues->languages
 laosi->laos
-likey->likely
 lookin->looking
 maintaind->maintained
 mananging->managing
@@ -24527,7 +24508,6 @@ intoto->into
 iteratoror->iterator
 keenia->kenya
 kolumbia->colombia
-likley->likely
 luksemburg->luxemburg
 madagaska->madagascar
 mamanger->manager
@@ -24629,7 +24609,6 @@ feelind->feeling
 flushiung->flushing
 ftrunate->ftruncate
 funcction->function
-functio->function
 ghasttable->ghashtable
 grup->group
 hanler->handler
@@ -24653,8 +24632,6 @@ libraray->library
 libtoolt->libtool
 listenadress->listenaddress
 logarithimic->logarithmic
-logorithmic->logarithmic
-logorithm->logarithm
 lookasize->lookaside
 macchine->machine
 mimimizes->minimizes
@@ -24697,7 +24674,6 @@ reloadale->reloadable
 repeate->repeat
 resove->resolve
 resusable->reusable
-returne->returned
 rmling->rmlint
 rotaionality->rotationality
 routinen->routine
@@ -24828,7 +24804,6 @@ alignent->alignment
 alignmet->alignment
 alk->alt
 alll->all
-alloction->allocation
 allodating->allocating
 allowambigouscommands->allowambiguouscommands
 allowes->allows
@@ -24965,7 +24940,6 @@ calclate->calculate
 calcualate->calculate
 calculat->calculate
 calculayte->calculate
-calcutate->calculate
 calibtration->calibration
 callin->calling
 callse->calls
@@ -25412,7 +25386,6 @@ elease->release
 elemennts->elements
 eletrically->electrically
 embeeded->embedded
-emough->enough
 emplemented->implemented
 enalbled->enabled
 encapsultated->encapsulated
@@ -25989,7 +25962,6 @@ princpal->principal
 procdure->procedure
 prootype->prototype
 propoerty->property
-proporty->property
 propperty->property
 proptects->protects
 provieded->provided
@@ -26058,7 +26030,6 @@ supplyed->supplied
 supporsts->supports
 surrount->surround
 telemtry->telemetry
-templete->template
 therwise->otherwise
 threfore->therefore
 threshod->threshold
@@ -26220,7 +26191,6 @@ rereasing->releasing
 resiliant->resilient
 signagure->signature
 specidied->specified
-spicified->specified
 stabalise->stabilise
 stripiing->stripping
 subsistem->subsystem
@@ -26520,7 +26490,6 @@ tabstopps->tabstops
 taked->taken
 tansform->transform
 tble->table
-texure->texture
 thease->these
 themeing->theming
 thouched->touched
@@ -27967,7 +27936,6 @@ payement->payment
 requesat->request
 scenarii->scenario
 switchig->switching
-testsing->testing
 tooolbar->toolbar
 typeahed->typeahead
 ubtotals->subtotals
@@ -32401,7 +32369,6 @@ nebor->newborn
 necdote->anecdote
 neghbor->neighbor
 negihbor->neighbor
-neibor->newborn
 neigbhor->neighbor
 neighbo->neighbor
 neighbro->neighbor
@@ -32584,7 +32551,6 @@ opmegranate->pomegranate
 opn->open
 oppening->opening
 opper->upper
-opperate->operate
 oppulation->population
 opssession->possession
 optato->potato
@@ -32805,7 +32771,6 @@ peucliar->peculiar
 peuliar->peculiar
 phenominal->phenomenal
 pheonix->phoenix
-phisics->physics
 phoosynthesis->photosynthesis
 phootsynthesis->photosynthesis
 photosinthasis->photosynthesis
@@ -34590,8 +34555,6 @@ workarond->workaround
 horizontically->horizontally
 responsiility->responsibility
 destorted->distorted
-reapeat->repeat
-reapeats->repeats
 damanging->damaging
 citiation->citation
 drwa->draw
@@ -34718,3 +34681,4 @@ fremium->freemium
 iunput->input
 reaplce->replace
 biuld->build
+staight->straight
