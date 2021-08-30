@@ -6299,7 +6299,6 @@ containd->contained
 containered->contained
 containmemt->containment
 containors->containers
-containters->containers
 contaire->containers
 contaminacion->contamination
 contaminanted->contaminated
@@ -34682,3 +34681,5 @@ iunput->input
 reaplce->replace
 biuld->build
 staight->straight
+comaprate->compare
+hprizontal->horizontal
