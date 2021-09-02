@@ -984,7 +984,6 @@ invertory->inventory
 manageing->managing
 paramenter->parameter
 precisey->precisely
-priot->prior
 providew->provide
 recan->rescan
 sensibe->sensible
@@ -8197,7 +8196,6 @@ disocgraphy->discography
 disollusioned->disillusioned
 dispacth->dispatch
 dispairty->disparity
-dispalcement->displacement
 dispalyed->displayed
 dispalys->displays
 dispapointed->disappointed
@@ -16653,8 +16651,6 @@ pericings->piercings
 peridinkle->periwinkle
 peridoically->periodically
 peridoic->periodic
-perihperal->peripheral
-perihperals->peripherals
 perimetr->perimeter
 periodes->periods
 periodisch->periodic
@@ -16832,7 +16828,6 @@ perswasion->persuasion
 pertaing->pertaining
 pertended->pretended
 pertians->pertains
-perticularly->particularly
 pertinante->pertinent
 pertinet->pertinent
 pertoleum->petroleum
@@ -17765,8 +17760,6 @@ prioritie->prioritize
 prioritse->priorities
 prioroties->priorities
 priorotize->prioritize
-priotities->priorities
-priotitize->prioritize
 prisitne->pristine
 pristen->pristine
 privaleged->privileged
@@ -24946,7 +24939,6 @@ callx->call
 cancell->cancel
 caninicalization->canonicalization
 canm->can
-cannote->cannot
 canse->cause
 capabale->capable
 capabbilities->capabilities
@@ -26500,7 +26492,6 @@ unabled->unable
 unckecked->unchecked
 unneeed->unneeded
 unoad->unload
-unsing->using
 upperr->upper
 variabled->variables
 variaty->variety
