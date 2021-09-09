@@ -4797,7 +4797,6 @@ characteristsics->characteristic
 characteritics->characteristic
 characterizarion->characterization
 characterizaton->characterization
-charactersitic->characteristics
 charactersitics->characteristics
 characterz->characterize
 charactoristics->characteristics
@@ -9729,10 +9728,8 @@ exterioara->exterior
 exterioare->exterior
 exteriour->exterior
 extermally->externally
-exterme->extreme
 extermely->extremely
 extermism->extremism
-extermists->extremists
 extoics->exotics
 extortin->extortion
 extraccion->extraction
@@ -34674,3 +34671,5 @@ biuld->build
 staight->straight
 comaprate->compare
 hprizontal->horizontal
+allocatied->allocated
+prargraph->paragraph
