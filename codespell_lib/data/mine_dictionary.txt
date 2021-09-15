@@ -7057,7 +7057,6 @@ currancies->currencies
 currate->curate
 currecny->currency
 currence->currencies
-currenctly->currency
 currenices->currencies
 currens->currents
 currentfps->currents
@@ -8338,8 +8337,6 @@ distinguise->distinguished
 distinguising->distinguishing
 distingusihing->distinguishing
 distinktion->distinction
-distinquished->distinguished
-distinquishing->distinguishing
 distintcly->distinctly
 distint->distinct
 distirbance->disturbance
@@ -20158,7 +20155,6 @@ seskatchewan->saskatchewan
 sesnors->sensors
 settelment->settlement
 settelments->settlements
-settigns->settings
 settlemens->settlements
 settlemetns->settlements
 settlemets->settlements
