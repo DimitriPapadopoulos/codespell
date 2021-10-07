@@ -849,12 +849,6 @@ wressel->wrestle
 wryth->writhe
 xelementacces->xelementaccess
 yamaka->yarmulke
-zar->czar
-zefer->zephyr
-zellot->zealot
-zink->zinc
-zookeenee->zucchini
-zylophone->xylophone
 interruted->interrupted
 prifles->profiles
 approciate->appropriate
@@ -13729,7 +13723,6 @@ ligitation->litigation
 ligthening->lightening
 ligthers->lighters
 ligthhouse->lighthouse
-ligthing->lighting
 ligthly->lightly
 ligthning->lightning
 ligthroom->lightroom
@@ -26245,7 +26238,6 @@ intiating->initiating
 intrinscs->intrinsics
 ipwireles->ipwireless
 knowledege->knowledge
-limiation->limitation
 linearaize->linearize
 listseners->listeners
 mandantory->mandatory
@@ -31951,7 +31943,6 @@ lightnng->lightning
 lightnnig->lightning
 ligible->legible
 lign->ling
-ligths->lights
 ligtning->lightning
 ligts->lights
 lihgtning->lightning
@@ -34670,3 +34661,6 @@ hprizontal->horizontal
 allocatied->allocated
 prargraph->paragraph
 missong->missing
+comemnt->comment
+configutaions->configurations
+configutaion->configuration
