@@ -18817,7 +18817,6 @@ refelctive->reflective
 refelct->reflect
 refelcts->reflects
 refelxes->reflexes
-referances->references
 referancing->referencing
 referandum->referendum
 referede->referee
@@ -26042,7 +26041,6 @@ whatchdog->watchdog
 writeble->writable
 xelsinki->helsinki
 zerro->zero
-excepion->exception
 elso->also
 seeealso->seealso
 listeneing->listening
