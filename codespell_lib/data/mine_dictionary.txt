@@ -30936,7 +30936,6 @@ enoined->enjoined
 enojined->enjoined
 enrole->enroll
 entited->entitled
-entrace->entrance
 entrende->entrance
 entrepeneurial->entrepreneurial
 envolve->involve
@@ -31368,7 +31367,6 @@ histor->history
 histoy->history
 histoyr->history
 hite->hate
-hitory->history
 hitsory->history
 hitted->hit
 hlaloween->halloween
@@ -34662,3 +34660,7 @@ missong->missing
 comemnt->comment
 configutaions->configurations
 configutaion->configuration
+giigabytes->gigabytes
+giigabyte->gigabyte
+pragraph->paragraph
+commamd->command
