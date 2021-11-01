@@ -1344,7 +1344,6 @@ administratos->administrators
 adminsitrative->administrative
 adminster->administer
 advenced->advanced
-algorithim->algorithm
 alisases->aliases
 apha->alpha
 asas->as
@@ -25940,7 +25939,6 @@ prootype->prototype
 propoerty->property
 propperty->property
 proptects->protects
-provieded->provided
 quckpath->quickpath
 quiscent->quiescent
 reacable->reachable
@@ -26362,7 +26360,6 @@ lement->element
 lighrange->lightrange
 lineary->linearly
 lnvalid->invalid
-longuest->longest
 maey->may
 mappning->mapping
 maschine->machine
@@ -27098,7 +27095,6 @@ updateresouce->updateresource
 updatesources->updatesource
 utilisations->utilizations
 variablility->variability
-verificiation->verification
 veternarians->veterinarians
 watingmonitor->waitingmonitor
 widgedevent->widgetevent
@@ -31120,9 +31116,6 @@ foots->feet
 footware->footwear
 forbidded->forbade
 forbode->forebode
-forcast->forecast
-forcasted->forecast
-forcasting->forecasting
 forclose->foreclose
 forebad->forbad
 forebade->forbade
@@ -34664,3 +34657,5 @@ giigabytes->gigabytes
 giigabyte->gigabyte
 pragraph->paragraph
 commamd->command
+admiistration->administration
+millimiter->millimeter
