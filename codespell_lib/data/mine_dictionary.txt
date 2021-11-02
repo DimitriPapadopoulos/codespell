@@ -4420,7 +4420,6 @@ candidatas->candidates
 candidats->candidates
 candidatxs->candidates
 candiens->candies
-canditates->candidates
 canides->candies
 canistre->canister
 cannabil->cannibal
@@ -5578,7 +5577,6 @@ compinsate->compensate
 compinsated->compensated
 compinsating->compensating
 compinsation->compensation
-compitability->compatibility
 compitance->compliance
 compitation->computation
 compitetion->competitions
@@ -5613,7 +5611,6 @@ completin->completion
 completito->completion
 completley->completely
 complets->completes
-complety->completely
 complexers->complexes
 complexety->complexity
 complexitiy->complexity
@@ -22724,7 +22721,6 @@ udnercut->undercut
 udnerdog->underdog
 udnerestimate->underestimated
 udnerpowered->underpowered
-uesfull->usefull
 ugpraded->upgraded
 ugprades->upgrades
 ugprade->upgrade
@@ -24200,7 +24196,6 @@ symmentrical->symmetrical
 synchzronized->synchronized
 tadjikistan->tajikistan
 taiwani->taiwan
-targest->target
 tayland->tailand
 teiland->tailand
 teivan->taivan
@@ -24312,7 +24307,6 @@ falss->false
 favoured->favored
 fiilter->filter
 filteer->filter
-fith->fifth
 fixth->sixth
 flavored->flavoured
 flinstone->flintstone
@@ -24999,7 +24993,6 @@ compilerr->compiler
 compilor->compiler
 compise->comprise
 complection->completion
-completd->completed
 complinance->compliance
 complte->complete
 componnent->component
@@ -25529,7 +25522,6 @@ noboody->nobody
 nomber->number
 nsyntax->syntax
 numbe->number
-numbet->number
 numbmer->number
 numbrer->number
 numbrs->numbers
@@ -26221,7 +26213,6 @@ histograpm->histogram
 historial->historical
 identiacal->identical
 impediance->impedance
-includeing->including
 incrementq->increment
 inerrupts->interrupts
 infterface->interface
@@ -34439,7 +34430,6 @@ encodres->encoders
 encosind->encoding
 excpeted->expected
 execpted->expected
-execture->execute
 expceted->expected
 binarary->binary
 represeted->represented
@@ -34659,3 +34649,5 @@ pragraph->paragraph
 commamd->command
 admiistration->administration
 millimiter->millimeter
+aswer->answer
+aswers->answers
