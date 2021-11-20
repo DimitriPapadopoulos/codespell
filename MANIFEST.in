@@ -1,4 +1,4 @@
-exclude *.yml *.yaml
+exclude *.yml *.yaml *.toml
 exclude .coveragerc
 exclude .git-blame-ignore-revs
 exclude example example/* snap snap/*
