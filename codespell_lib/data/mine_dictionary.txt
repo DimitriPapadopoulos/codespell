@@ -32415,7 +32415,6 @@ nusnce->nuance
 nutil->until
 nvisible->invisible
 nxiety->anxiety
-obervation->observation
 observence->observance
 obsolecence->obsolescence
 obsolecense->obsolescence
@@ -34652,3 +34651,7 @@ millimiter->millimeter
 aswer->answer
 aswers->answers
 implemnented->implemented
+necessasy->necessary
+decoractive->decorative
+soloution->solution
+disbable->disable
