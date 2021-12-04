@@ -1641,7 +1641,6 @@ keberos->kerberos
 leight->height
 lonfoff->longoff
 longet->longer
-loocking->locking
 lowere->lower
 marvel->marvell
 memort->memory
@@ -10892,7 +10891,6 @@ hapmshire->hampshire
 happends->happens
 happenend->happened
 happenes->happens
-happilly->happily
 happliy->happily
 hardend->hardened
 hardenend->hardened
@@ -13909,7 +13907,6 @@ mainfests->manifests
 mainpulate->manipulate
 mainstreem->mainstream
 mainstrem->mainstream
-maintaince->maintained
 maintainig->maintaining
 maintainted->maintained
 maintenaince->maintenance
@@ -16659,7 +16656,6 @@ periwinkie->periwinkle
 periwinlke->periwinkle
 perliminary->preliminary
 permade->premade
-permamently->permanently
 permanantely->permanently
 permanetly->permanently
 permanet->permanent
@@ -20395,8 +20391,6 @@ simulteneous->simultaneous
 sinagpore->singapore
 sincereley->sincerely
 sincerelly->sincerely
-singature->signature
-singatures->signatures
 singelplayer->singleplayer
 singels->singles
 singificantly->significantly
@@ -23275,9 +23269,6 @@ unworhty->unworthy
 unworthly->unworthy
 unworty->unworthy
 unwrittern->unwritten
-upgarded->upgraded
-upgardes->upgrades
-upgarding->upgrading
 upgrads->upgrades
 uplfiting->uplifting
 uplifitng->uplifting
@@ -24897,7 +24888,6 @@ buffereing->buffering
 buiiltin->builtin
 buildin->builtin
 builting->builtin
-bumber->number
 buttin->button
 buttoni->button
 buundle->bundle
@@ -25240,7 +25230,6 @@ alernate->alternate
 alforithm->algorithm
 algrorithm->algorithm
 ample->sample
-bloock->block
 brough->brought
 cahcefile->cachefile
 checkummed->checksummed
@@ -34655,3 +34644,4 @@ necessasy->necessary
 decoractive->decorative
 soloution->solution
 disbable->disable
+incrase->increase
