@@ -871,7 +871,6 @@ coping->copying
 dellaloc->delalloc
 anobject->an object
 incosistency->inconsistency
-gere->here
 uppper->upper
 suppplier->supplier
 langiages->languages
@@ -1574,7 +1573,6 @@ delaing->dealing
 varify->verify
 accless->access
 adapative->adaptive
-ajustments->adjustments
 allocting->allocating
 alowable->allowable
 ambiguousp->ambiguous
@@ -15329,7 +15327,6 @@ navigatore->navigate
 nazionalists->nationalists
 necessairly->necessarily
 necessairy->necessarily
-necessarly->necessary
 necessaties->necessities
 necesseraly->necessarily
 necessiates->necessities
