@@ -5661,6 +5661,7 @@ checkk->check
 checkng->checking
 checkoslovakia->czechoslovakia
 checkox->checkbox
+checkoxes->checkboxes
 checkpoing->checkpoint
 checkstum->checksum
 checkstuming->checksumming
@@ -7920,6 +7921,7 @@ contraveining->contravening
 contravercial->controversial
 contraversy->controversy
 contrbution->contribution
+contrbutions->contributions
 contribte->contribute
 contribted->contributed
 contribtes->contributes
@@ -8594,9 +8596,11 @@ cpacity->capacity
 cpation->caption
 cpcheck->cppcheck
 cpontent->content
+cpontents->contents
 cpoy->copy, coy,
 cppp->cpp
 cption->option, caption,
+cptions->options, captions,
 cpuld->could
 crace->grace, crate,
 craced->graced
@@ -9345,6 +9349,7 @@ decording->decoding
 decordings->decodings
 decorrellation->decorrelation
 decortator->decorator
+decortators->decorators
 decose->decode
 decosed->decoded
 decoser->decoder
@@ -20104,6 +20109,7 @@ messagses->messages
 messanger->messenger
 messangers->messengers
 messave->message
+messege->message
 messeges->messages
 messenging->messaging
 messgaes->messages
@@ -22015,6 +22021,7 @@ ofo->of
 ofrom->from
 ofsetted->offsetted
 ofsset->offset
+ofssets->offsets
 oftenly->often
 ofthe->of the
 ofthen->often, of then,
@@ -22713,6 +22720,7 @@ ovverride->override
 ovverrides->overrides
 ovverriding->overriding
 owener->owner
+oweners->owners
 ower->lower, owner, over,
 owerflow->overflow
 owerflowed->overflowed
@@ -22989,6 +22997,7 @@ partcular->particular
 partcularity->particularity
 partcularly->particularly
 parth->path
+parths->paths
 partialy->partially
 partical->partial, particle,
 particalar->particular
@@ -29964,6 +29973,7 @@ spinock->spinlock
 splig->split, splign,
 spligs->splits
 spliiter->splitter
+spliiters->splitters
 spliitting->splitting
 splite->split, splits, splice,
 spliting->splitting
@@ -34678,6 +34688,7 @@ whatepsace->whitespace
 whatepsaces->whitespaces
 whather->whether, weather,
 whathever->whatever
+whats->what's
 whch->which
 whcich->which
 whcih->which
