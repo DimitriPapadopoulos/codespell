@@ -48,7 +48,6 @@ anomolee->anomaly
 anoyed->annoyed
 anphibian->amphibian
 ansamble->ensemble
-ansester->ancestor
 anticdote->anecdote
 antripanewer->entrepreneur
 anurism->aneurysm
@@ -1742,7 +1741,6 @@ fragmetation->fragmentation
 culmulative->cumulative
 finialize->finalize
 anbother->another
-limitting->limiting
 rearrannged->rearranged
 uable->unable
 indrect->indirect
@@ -2946,10 +2944,6 @@ appointmet->appointments
 appoitnment->appointments
 appoitnments->appointments
 apporachable->approachable
-apporach->approach
-apporached->approached
-apporaches->approaches
-apporaching->approaching
 apporpriately->appropriately
 apporpriation->appropriation
 apporximate->approximate
@@ -3790,7 +3784,6 @@ benedit->benedict
 benefecial->beneficial
 benefica->beneficial
 beneficiul->beneficial
-benefitial->beneficial
 benefitical->beneficial
 beneifical->beneficial
 benelovent->benevolent
@@ -4507,7 +4500,6 @@ captiol->capitol
 captivitiy->captivity
 capusle->capsule
 capusles->capsules
-caputres->captures
 caraciture->caricature
 carange->carnage
 carbien->carbine
@@ -4589,7 +4581,6 @@ cashies->cashiers
 cashire->cashier
 cashires->cashiers
 casltes->castles
-caspule->capsule
 cassete->cassette
 cassettte->cassette
 castatrophe->catastrophe
@@ -6522,8 +6513,6 @@ conveluted->convoluted
 convencen->convenience
 convencional->conventional
 convencion->convention
-conveniant->convenient
-conveniantly->conveniently
 conveniece->convenience
 conveniente->convenience
 conveniet->convenient
@@ -8511,8 +8500,6 @@ doucehbag->douchebag
 douchely->douchey
 doucheus->douches
 doulbelift->doublelift
-downgarded->downgraded
-downgarde->downgrade
 downlaodable->downloadable
 downloaad->download
 downloadas->downloads
@@ -10166,8 +10153,6 @@ formidabile->formidable
 formidabil->formidable
 forminable->formidable
 formitable->formidable
-formual->formula
-formuals->formulas
 formualte->formulate
 formuladas->formulas
 formulados->formulas
@@ -11170,8 +11155,6 @@ horizontallly->horizontally
 horizontaly->horizontally
 horizontes->horizons
 horizonts->horizons
-horiztonal->horizontal
-horiztonally->horizontally
 horozontally->horizontally
 horrendeous->horrendous
 horrendeus->horrendous
@@ -11823,7 +11806,6 @@ incontrollably->uncontrollably
 inconveinence->inconvenience
 inconveinent->inconvenient
 inconveniance->inconvenience
-inconveniant->inconvenient
 inconveniece->inconvenience
 inconveniente->inconvenience
 inconveniet->inconvenient
@@ -12597,7 +12579,6 @@ interchangeablely->interchangeably
 interchangeabley->interchangeably
 interchangeablity->interchangeably
 interchangebale->interchangeable
-interchangeble->interchangeable
 interchangebly->interchangeably
 intercoarse->intercourse
 intercorse->intercourse
@@ -15897,14 +15878,11 @@ organizatons->organizations
 organizms->organism
 organizors->organizers
 organizuje->organize
-organsied->organised
 organsie->organise
 organsim->organism
 organsims->organisms
 organziational->organizational
 organzie->organize
-organzier->organizer
-organziers->organizers
 orgasmes->orgasms
 orgasmos->orgasms
 orgasmus->orgasms
@@ -23976,7 +23954,6 @@ brannch->branch
 choosebackends->choosebackend
 colonamode->colonmode
 concacenating->concatenating
-condfiguration->configuration
 confalict->conflict
 conigurable->configurable
 couod->could
@@ -24120,7 +24097,6 @@ unusedmaps->unusedmap
 uploadd->upload
 uppgrade->upgrade
 valult->vault
-viwed->viewed
 waiit->wait
 walkthough->walkthrough
 widtd->width
@@ -24451,7 +24427,6 @@ exbit->exhibit
 explicitally->explicitly
 ezmple->example
 foriegnkey->foreignkey
-formuale->formulae
 frans->france
 fromerror->formerror
 fuild->fluid
@@ -24664,7 +24639,6 @@ tutoral->tutorial
 unabiguously->unambiguously
 unabiguous->unambiguous
 unpreditable->unpredictable
-unpriviledged->unprivileged
 usingi->using
 uthors->authors
 vaolues->values
@@ -25221,7 +25195,6 @@ directwhow->directshow
 hellper->helper
 meda->media
 staters->starters
-accomidate->accommodate
 ageing->aging
 alernate->alternate
 alforithm->algorithm
@@ -25413,7 +25386,6 @@ redar->radar
 rooom->room
 rulls->rules
 saara->sara
-sart->start
 semms->seems
 sixup->fixup
 wbose->whose
@@ -25859,7 +25831,6 @@ inicated->indicated
 inidicate->indicate
 initamfs->initramfs
 initites->initiates
-intefere->interfere
 interaval->interval
 interfac->interface
 interrpt->interrupt
@@ -26056,7 +26027,6 @@ gglobal->global
 klling->killing
 latecy->latency
 optins->options
-overal->overall
 returun->return
 scisor->scissor
 seving->serving
@@ -26330,7 +26300,6 @@ interaface->interface
 intrface->interface
 iterest->interest
 itfself->itself
-itsself->itself
 korrectly->correctly
 latancy->latency
 lement->element
@@ -26628,7 +26597,6 @@ loadlibary->loadlibrary
 logilename->logfilename
 maintining->maintaining
 managments->managements
-meaurement->measurement
 moterboard->motherboard
 muliplexor->multiplexer
 multipexed->multiplexed
@@ -26805,7 +26773,6 @@ originaally->originally
 overcloking->overclocking
 paricularly->particularly
 parrameters->parameters
-percentange->percentage
 perodically->periodically
 persistancy->persistency
 polimorphic->polymorphic
@@ -26982,7 +26949,6 @@ ouitstanding->outstanding
 outstandling->outstanding
 packagefules->packagerules
 paralllelism->parallelism
-parititioning->partitioning
 parseability->parsability
 potentically->potentially
 potientially->potentially
@@ -30202,7 +30168,6 @@ changeabl->changeable
 changealbe->changeable
 changeale->changeable
 changebale->changeable
-changeble->changeable
 charicatoor->caricature
 chedule->schedule
 chieftan->chieftain
@@ -31249,7 +31214,6 @@ guaantee->guarantee
 guaarntee->guarantee
 guaranee->guarantee
 guaranete->guarantee
-guarante->guarantee
 guaratee->guarantee
 guaratnee->guarantee
 guge->gage
@@ -34163,7 +34127,6 @@ infalliable->infallible
 initializng->initializing
 inoovations->innovations
 instrinsics->intrinsics
-inteference->interference
 integratint->integrating
 intelliense->intellisense
 interanally->internally
@@ -34350,7 +34313,6 @@ decvice->device
 optione->option
 preparion->preparation
 sice->since
-storge->storage
 unlinke->unlink
 siutaions->situations
 siutaion->situation
@@ -34462,7 +34424,6 @@ dekay->delay
 resive->resize
 worktress->worktrees
 tress->trees
-inidividual->individual
 mignight->midnight
 collapased->collapsed
 pssible->possible
