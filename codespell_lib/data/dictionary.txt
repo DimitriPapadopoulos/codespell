@@ -12023,7 +12023,8 @@ distribtion->distribution
 distribtions->distributions
 distribtuion->distribution
 distribtuions->distributions
-distribtution->distributions
+distribtution->distribution
+distribtutions->distributions
 distribue->distribute
 distribued->distributed
 distribues->distributes
