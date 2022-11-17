@@ -30,7 +30,7 @@ global_err_dicts: Dict[str, Dict[str, Any]] = {}
 global_pairs: Set[Tuple[str, str]] = set()
 
 # Filename, should be seen as errors in aspell or not
-_data_dir = op.join(op.dirname(__file__), '..', 'data')
+_data_dir = op.join(op.dirname(__file__), '..', 'codespell_lib', 'data')
 _fnames_in_aspell = [
     (op.join(_data_dir, 'dictionary%s.txt' % d[2]), d[3:5], d[5:7])
     for d in _builtin_dictionaries]
