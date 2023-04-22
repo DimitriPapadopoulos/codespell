@@ -34634,6 +34634,9 @@ shtops->stops, shops,
 shttp->https
 shudown->shutdown
 shufle->shuffle
+shufled->shuffled
+shufles->shuffles
+shufling->shuffling
 shuld->should
 shuold->should
 shuoldnt->shouldn't
@@ -36874,6 +36877,10 @@ suffiency->sufficiency
 suffient->sufficient
 suffiently->sufficiently
 suffisticated->sophisticated
+suffle->shuffle
+suffled->shuffled
+suffles->shuffles
+suffling->shuffling
 suficate->suffocate
 suficated->suffocated
 suficates->suffocates
