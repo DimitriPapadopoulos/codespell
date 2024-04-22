@@ -190,7 +190,7 @@ oerflow->overflow
 oerflowed->overflowed
 oerflowing->overflowing
 oerflows->overflows
-ore->or
+ore->or, more,
 panting->painting
 pares->pairs
 parma->param
