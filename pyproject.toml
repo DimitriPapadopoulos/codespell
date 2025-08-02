@@ -1,4 +1,6 @@
-# https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html
+[build-system]
+requires = ["flit_core>=3.11", "flit_scm"]
+build-backend = "flit_scm:buildapi"
 
 [project]
 name = "codespell"
@@ -63,21 +65,11 @@ codespell = "codespell_lib:_script_main"
 homepage = "https://github.com/codespell-project/codespell"
 repository = "https://github.com/codespell-project/codespell"
 
-[build-system]
-build-backend = "setuptools.build_meta"
-requires = ["setuptools>=77", "setuptools_scm[toml]>=6.2, != 8.0.0"]
+[tool.flit.module]
+name = "codespell_lib"
 
-[tool.setuptools_scm]
-write_to = "codespell_lib/_version.py"
-
-[tool.setuptools.packages.find]
-exclude = [
-    "dist",
-    "snap",
-]
-
-[tool.setuptools.package-data]
-codespell_lib = [
+[tool.flit.sdist]
+include = [
     "data/dictionary*.txt",
     "data/linux-kernel.exclude",
     "py.typed",
