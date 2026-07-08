@@ -703,8 +703,7 @@ def parse_options(
                 with open(toml_file, "rb") as f:
                     data = tomllib.load(f).get("tool", {})
                 if "codespell" in data:
-                    data["codespell"] = _toml_to_parseconfig(data["codespell"])
-                config.read_dict(data)
+                    config.read_dict(_toml_to_parseconfig(data["codespell"]))
 
     # Collect which config files are going to be used
     used_cfg_files = []
